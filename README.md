@@ -11,6 +11,8 @@
 <a href="https://www.linkedin.com/in/rowanwood/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/108px-LinkedIn_icon.svg.png" alt="Linked In Logo" height="30" width="30" /></a>
 <a href="https://www.facebook.com/woodrowan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="FaceBook Logo" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/RowDogTV/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube Logo" height="35" width="40" /></a>
+<a href="https://www.twitch.tv/rowdogtv" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" alt="Twitch Logo" height="30" width="30" /></a>
+<a href="https://www.tiktok.com/@gtavfivemservers" target="blank"><img align="center" src="https://vectorwiki.com/images/noDoe__tiktok-logo.svg" alt="Twitch Logo" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
