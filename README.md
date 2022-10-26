@@ -6,6 +6,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrdiamonddirt&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed608" /> </p>
 
+![GitHub User's stars](https://img.shields.io/github/stars/mrdiamonddirt?logoColor=yellow)
+
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCEG9DdmLGVMZP2CEjQTk20w?style=social)
+
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCEG9DdmLGVMZP2CEjQTk20w?style=social)
+
+![Twitch Status](https://img.shields.io/twitch/status/rowdogtv?style=social)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/xn2ehYkeBz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord Logo" height="35" width="40" /></a>
