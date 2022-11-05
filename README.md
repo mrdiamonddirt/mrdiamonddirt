@@ -70,3 +70,5 @@
   <img src="https://github.com/ddastardly91/ddastardly91/blob/output/github-contribution-grid-snake.svg" />
 </div>
 </a>
+
+![](https://hit.yhype.me/github/profile?user_id=25391741)
