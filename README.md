@@ -11,11 +11,11 @@
 </a>
  
 <a href="https://github.com/mrdiamonddirt/">
- <img src="https://img.shields.io/github/stars/mrdiamonddirt?logoColor=yellow"/>
+ <p align="left"><img src="https://img.shields.io/github/stars/mrdiamonddirt?logoColor=yellow"/></p>
  </a>
  
 <a href="https://www.youtube.com/channel/UCEG9DdmLGVMZP2CEjQTk20w">
- <img src="https://img.shields.io/youtube/channel/subscribers/UCEG9DdmLGVMZP2CEjQTk20w?style=social"/>
+<p align="left"> <img src="https://img.shields.io/youtube/channel/subscribers/UCEG9DdmLGVMZP2CEjQTk20w?style=social"/></p>
  </a>
  
 <a href="https://www.youtube.com/channel/UCEG9DdmLGVMZP2CEjQTk20w">
@@ -23,7 +23,7 @@
  </a>
  
 <a href="https://github.com/mrdiamonddirt/">
- <img src="https://img.shields.io/twitch/status/rowdogtv?style=social"/>
+<p align="left"> <img src="https://img.shields.io/twitch/status/rowdogtv?style=social"/></p>
  </a>
  
 <h3 align="left">Connect with me:</h3>
