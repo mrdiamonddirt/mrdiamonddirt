@@ -64,8 +64,9 @@
  <img width=800 src="https://github-profile-trophy.vercel.app/?username=mrdiamonddirt&theme=juicyfresh&row=2&column=4"/>
 </a>
 </div>
- 
+
+ <a href="https://github.com/mrdiamonddirt/">
 <div align="center">
   <img src="https://github.com/ddastardly91/ddastardly91/blob/output/github-contribution-grid-snake.svg" />
 </div>
-
+</a>
