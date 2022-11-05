@@ -40,8 +40,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mrdiamonddirt&theme=dark&hide_border=true" background-color:powderblue; alt="mrdiamonddirt" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrdiamonddirt&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+ [![trophy](https://github-profile-trophy.vercel.app/?username=mrdiamonddirt&theme=juicyfresh&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
+ 
 <div align="center">
   <img src="https://github.com/ddastardly91/ddastardly91/blob/output/github-contribution-grid-snake.svg" />
 </div>
