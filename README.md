@@ -40,9 +40,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mrdiamonddirt&theme=dark&hide_border=true" background-color:powderblue; alt="mrdiamonddirt" /></p>
 
-<div align="center">
  [![trophy](https://github-profile-trophy.vercel.app/?username=mrdiamonddirt&theme=juicyfresh&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
 
  
 <div align="center">
