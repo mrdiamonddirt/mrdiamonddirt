@@ -47,11 +47,18 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/rowdog/"> <img align="centre" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Kofi Logo" /></a></p><br><br>
 
+<a href="https://github.com/mrdiamonddirt/">
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdiamonddirt&&langs_count=8&theme=dark&hide_border=true" alt="mrdiamonddirt" /></p>
+</a>
+
+<a href="https://github.com/mrdiamonddirt/">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrdiamonddirt&show_icons=true&theme=dark&hide_border=true" alt="mrdiamonddirt" /></p>
+</a>
 
+<a href="https://github.com/mrdiamonddirt/">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mrdiamonddirt&theme=dark&hide_border=true" background-color:powderblue; alt="mrdiamonddirt" /></p>
-
+</a>
+ 
 <div align="center">
 <a href="https://github.com/mrdiamonddirt/">
  <img width=800 src="https://github-profile-trophy.vercel.app/?username=mrdiamonddirt&theme=juicyfresh&row=2&column=4"/>
