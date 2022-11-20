@@ -54,10 +54,10 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdiamonddirt&&langs_count=8&theme=dark&hide_border=true" alt="mrdiamonddirt" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrdiamonddirt&show_icons=true&theme=dark&hide_border=true" alt="mrdiamonddirt" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdiamonddirt&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="mrdiamonddirt" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrdiamonddirt&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="mrdiamonddirt" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mrdiamonddirt&theme=dark&hide_border=true" background-color:powderblue; alt="mrdiamonddirt" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mrdiamonddirt&theme=dark&hide_border=false" alt="mrdiamonddirt" /></p>
 
 <div align="center">
 <a href="https://github.com/mrdiamonddirt/">
