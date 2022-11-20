@@ -17,7 +17,8 @@
 
 ![Twitch Status](https://img.shields.io/twitch/status/rowdogtv?style=social)
 
-<h3 align="left">Connect with me:</h3>
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
 <p align="left">
 <a href="https://discord.gg/xn2ehYkeBz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord Logo" height="35" width="40" /></a>
 <a href="https://www.linkedin.com/in/rowanwood/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/108px-LinkedIn_icon.svg.png" alt="Linked In Logo" height="30" width="30" /></a>
