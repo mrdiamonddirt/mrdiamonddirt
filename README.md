@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, My Name is  Rowan Wood</h1>
 <h2 align="center">Welcome to my Github Repo</h2>
 
-🎄 Merry Christmas 🎄
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1500&center=true&vCenter=true&width=500&lines=Personal+Web+and+FiveM+Development;Eager+and+Passionate+About+Learning..%E2%9D%A4;Embracing+OpenSource..+%F0%9F%86%93)](https://git.io/typing-svg)
 
 <a href="https://github.com/mrdiamonddirt/">
