@@ -46,7 +46,8 @@
 
 - A passionate Self-taught Developer
 - Playing With Emerging Technologies in my spare time.
-- Currently learning Full Stack Web Development
+- Trained Full-Stack Developer
+- Currently Learning Cyber Security
 - Personal website [link](https://www.copsrp.com)
 
 <br>
