@@ -17,7 +17,7 @@
 
 ![Twitch Status](https://img.shields.io/twitch/status/rowdogtv?style=social)
 
-![TryHavkMeBadge](https://tryhackme-badges.s3.amazonaws.com/woodrowan.png)
+![tryhackme stats](https://raw.githubusercontent.com/mrdiamonddirt/mrdiamonddirt/master/assets/thm_propic.png)
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
