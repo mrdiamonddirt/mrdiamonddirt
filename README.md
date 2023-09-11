@@ -46,11 +46,15 @@
 
 <br>
 
-- A passionate Self-taught Developer
-- Playing With Emerging Technologies in my spare time.
-- Trained Full-Stack Developer
-- Currently Learning Cyber Security
-- Personal website [link](https://www.copsrp.com)
+- 👋 Hi, I’m Rowan Wood, i am a keen developer and a passionate learner.
+-  I like to play With emerging technologies in my spare time.
+- 👀 I’m interested in All things Tech,
+- Trained in Full-Stack Development, Cyber Security and Ethical Hacking
+- 🌱 I’m currently learning about AI and Machine Learning.
+- 💞️ I’m looking to collaborate on anything that interests me.
+- 📫 How to reach me: [Discord](https://discord.gg/xn2ehYkeBz)
+- 📫 How to reach me: [Twitter](https://twitter.com/mrdiamonddirt)
+- 📫 How to reach me: [Email](mailto:mrdiamonddirt@gmail.com)
 
 <br>
 
