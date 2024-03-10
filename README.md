@@ -78,4 +78,6 @@
 </div>
 </a>
 
+![Snake animation](https://github.com/mrdiamonddirt/mdiamonddirt/blob/output/github-contribution-grid-snake.svg)
+
 ![](https://hit.yhype.me/github/profile?user_id=25391741)
