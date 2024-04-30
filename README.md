@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My Name is  Rowan Wood</h1>
 <h2 align="center">Welcome to my Github Repo</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1500&center=true&vCenter=true&width=500&lines=Personal+Web+and+FiveM+Development;Eager+and+Passionate+About+Learning..%E2%9D%A4;Embracing+OpenSource..+%F0%9F%86%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1500&center=true&vCenter=true&width=500&lines=FullStack+Development;Eager+and+Passionate+About+Learning..%E2%9D%A4;Embracing+OpenSource..+%F0%9F%86%93)](https://git.io/typing-svg)
 
 <a href="https://github.com/mrdiamonddirt/">
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
