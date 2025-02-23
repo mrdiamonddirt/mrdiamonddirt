@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1500&center=true&vCenter=true&width=500&lines=FullStack+Development;Eager+and+Passionate+About+Learning..%E2%9D%A4;Embracing+OpenSource..+%F0%9F%86%93)](https://git.io/typing-svg)
 
 <a href="https://github.com/mrdiamonddirt/">
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrdiamonddirt&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed608" /> </p>
